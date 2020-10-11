@@ -7,3 +7,5 @@
 | [En Route Salute](https://github.com/jimcrews/my-py-notebooks/blob/master/En%20Route%20Salute.ipynb)                     | Google Foobar hiring challenge question                           |
 | [Sales Analysis](https://github.com/jimcrews/my-py-notebooks/blob/master/Sales_Analysis.ipynb)                           | Use pandas to combine datasets and group data                     |
 | [Wikipedia Page Scraping Demo](https://github.com/jimcrews/my-py-notebooks/blob/master/Wikipedia_InfoBox_Scraping.ipynb) | Use BeautifulSoup to scrape the info box into a Python Dictionary |
+| [Multi Wikipedia Page Scraping](https://github.com/jimcrews/my-py-notebooks/blob/master/All_Disney_Movies_Scraping.ipynb) | Use BeautifulSoup to scrape multiple info box data from multiple pages |
+| [Covid-19 EDA and Data Viz](https://github.com/jimcrews/my-py-notebooks/blob/master/Covid-19_EDA.ipynb) | Use plotly, folium, pandas to explore and visualize Covid data |
